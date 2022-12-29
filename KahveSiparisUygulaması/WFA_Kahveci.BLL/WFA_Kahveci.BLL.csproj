@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WFA_Kahveci.DataAccess\WFA_Kahveci.DataAccess.csproj" />
+    <ProjectReference Include="..\WFA_Kahveci.Entities\WFA_Kahveci.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

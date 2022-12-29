@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.BLL\\WFA_Kahveci.BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.BLL\\WFA_Kahveci.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.BLL\\WFA_Kahveci.BLL.csproj",
+        "projectName": "WFA_Kahveci.BLL",
+        "projectPath": "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.BLL\\WFA_Kahveci.BLL.csproj",
+        "packagesPath": "C:\\Users\\Hatiç\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hatiç\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.DataAccess\\WFA_Kahveci.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.DataAccess\\WFA_Kahveci.DataAccess.csproj"
+              },
+              "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.Entities\\WFA_Kahveci.Entities.csproj": {
+                "projectPath": "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.Entities\\WFA_Kahveci.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.DataAccess\\WFA_Kahveci.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.DataAccess\\WFA_Kahveci.DataAccess.csproj",
+        "projectName": "WFA_Kahveci.DataAccess",
+        "projectPath": "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.DataAccess\\WFA_Kahveci.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Hatiç\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hatiç\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.Entities\\WFA_Kahveci.Entities.csproj": {
+                "projectPath": "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.Entities\\WFA_Kahveci.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.Entities\\WFA_Kahveci.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.Entities\\WFA_Kahveci.Entities.csproj",
+        "projectName": "WFA_Kahveci.Entities",
+        "projectPath": "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.Entities\\WFA_Kahveci.Entities.csproj",
+        "packagesPath": "C:\\Users\\Hatiç\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hatiç\\OneDrive\\Masaüstü\\WFA_Kahveci\\WFA_Kahveci.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hatiç\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

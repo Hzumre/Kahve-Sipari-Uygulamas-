@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WFA_Kahveci/1.0.0": {
+        "dependencies": {
+          "WFA_Kahveci.Entities": "1.0.0"
+        },
+        "runtime": {
+          "WFA_Kahveci.dll": {}
+        }
+      },
+      "WFA_Kahveci.Entities/1.0.0": {
+        "runtime": {
+          "WFA_Kahveci.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WFA_Kahveci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WFA_Kahveci.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
