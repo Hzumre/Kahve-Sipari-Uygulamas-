@@ -1,2 +1,2 @@
 # Kahve-Sipari-Uygulamas-
-Kullanıcıların kahve siparişi verebildikleri bir masaüstü  projesidir.
+OOP prensiplerini dikkate alarak katmanlı mimari yapısıyla hazırladığım bir masaüstü projesidir.
