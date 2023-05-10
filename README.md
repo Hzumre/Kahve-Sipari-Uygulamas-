@@ -1,2 +1,2 @@
-# Kahve-Sipari-Uygulamas-
-OOP prensiplerini dikkate alarak katmanlı mimari yapısıyla hazırladığım bir masaüstü projesidir.
+# Coffee-Shop
+It is a desktop project that I prepared with its layered architecture, taking into account OOP principles.
